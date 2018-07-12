@@ -1,0 +1,234 @@
+{
+    "success": true,
+    "responsCode": 200,
+    "message" : "",
+    "version": 1,
+    "timestamp": "09-10-2018 20:12:10",
+    "type": "profil",
+    "data": {
+        "user": {
+            "userId": "iohdgggja12312",
+            "cName": "John Doe",
+            "username": "johndoe",
+            "createdAt": "09-09-2018 20:08:00",
+            "verifiedAt": "09-09-2018 21:09:00",
+            "profilImg": "https://image.onbox.com/129aj1901jaoqi.png",
+            "coverImg": "https://image.onbox.com/ajq1kapqowmaamsm.png",
+            "stat": {
+                "followerCount": 90999099,
+                "followingCount": 10,
+                "applause": 1000290100,
+                "post": 909
+            },
+            "type": "user"
+        },
+        "headlines": {
+            "data": [
+                {
+                    "createdAt" : "09-10-2018 20:12:10",
+                    "title": "bagaimana membangun startup?",
+                    "url": "https://onbox.com/@johndoe/#!/bagaimana-membangun-startup-sendiri-?",
+                    "image": "https://image.onbox.com/a12ao10qpaansq.png"
+                },
+                {
+                    "createdAt" : "09-10-2018 20:12:10",
+                    "title": "bagaimana membangun startup?",
+                    "url": "https://onbox.com/@johndoe/#!/bagaimana-membangun-startup-sendiri-?",
+                    "image": "https://image.onbox.com/a12ao10qpaansq.png"
+                },
+                {
+                    "createdAt" : "09-10-2018 20:12:10",
+                    "title": "bagaimana membangun startup?",
+                    "url": "https://onbox.com/@johndoe/#!/bagaimana-membangun-startup-sendiri-?",
+                    "image": "https://image.onbox.com/a12ao10qpaansq.png"
+                },
+                {
+                    "createdAt" : "09-10-2018 20:12:10",
+                    "title": "bagaimana membangun startup?",
+                    "url": "https://onbox.com/@johndoe/#!/bagaimana-membangun-startup-sendiri-?",
+                    "image": "https://image.onbox.com/a12ao10qpaansq.png"
+                },
+                {
+                    "createdAt" : "09-10-2018 20:12:10",
+                    "title": "bagaimana membangun startup?",
+                    "url": "https://onbox.com/@johndoe/#!/bagaimana-membangun-startup-sendiri-?",
+                    "image": "https://image.onbox.com/a12ao10qpaansq.png"
+                }
+            ],
+            "lastEdit": "09-10-2018 18:09:10",
+            "type": "headline"
+        },
+        "post" : {
+            "data" : [
+                {
+                    "id" : "1qi01hau719qia00a",
+                    "creatorId": "iohdgggja12312",
+                    "type" : "story",
+                    "createdAt" : "09-10-2018 18:09:10",
+                    "lastEdit" : "09-10-2018 18:29:10",
+                    "title" : "",
+                    "background" : "#f12fa1",
+                    "content" : {
+                        "image" : [
+                            {
+                                "url" : "https://image.onbox.com/uighkgjgjdawtAesew.png",
+                                "title" : "",
+                                "revision" : 0,
+                                "mention" :[
+                                    {
+                                        "user" : "hermansh",
+                                        "xKoordinat" : 109,
+                                        "yKoordinat" : 180
+                                    },
+                                    {
+                                        "user" : "mark",
+                                        "xKoordinat" : 9,
+                                        "yKoordinat" : 18
+                                    },
+                                    {
+                                        "user" : "steve",
+                                        "xKoordinat" : 19,
+                                        "yKoordinat" : 80
+                                    },
+                                    {
+                                        "user" : "gates",
+                                        "xKoordinat" : 19,
+                                        "yKoordinat" : 180
+                                    }
+                                ]
+                            },
+                            {
+                                "url" : "https://image.onbox.com/uighkgjgjdawtAesew.png",
+                                "title" : "",
+                                "revision" : 0,
+                                "mention" :[
+                                    {
+                                        "user" : "hermansh",
+                                        "xKoordinat" : 109,
+                                        "yKoordinat" : 180
+                                    },
+                                ]
+                            },
+                            {
+                                "url" : "https://image.onbox.com/uighkgjgjdawtAesew.png",
+                                "title" : "",
+                                "revision" : 1,
+                                "mention" :[
+                                    {
+                                        "user" : "hermansh",
+                                        "xKoordinat" : 109,
+                                        "yKoordinat" : 180
+                                    },
+                                ]
+                            }
+                        ],
+                        "text" : [
+                            {
+                                "name": "abe1",
+                                "type": 2,
+                                "text": "Type 2 is for heading 1",
+                                "markups": []
+                            },
+                            {
+                                "name": "ab91",
+                                "type": 1,
+                                "text": "Type 1 is for paragraph, Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem",
+                                "markups": [
+                                    {
+                                        "type": 1,
+                                        "start": 116,
+                                        "end": 191,
+                                        "href": "http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm"
+                                    },
+                                    {
+                                        "type": 2,
+                                        "start": 12,
+                                        "end": 19
+                                    },
+                                    {
+                                        "type": 3,
+                                        "start": 29,
+                                        "end": 34
+                                    }
+                                ]
+                            },
+                            {
+                                "name" : "a1as",
+                                "type" : 3,
+                                "text" : "Type 3 is quote Lorem Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem",
+                                "markups" : []
+                            },
+                            {
+                                "name" : "1aqa",
+                                "type" : 4,
+                                "text" : "Type 4 is ul Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur",
+                                "markups" : []
+                            },
+                            {
+                                "name" : "aaqa",
+                                "type" : 4,
+                                "text" : "Type 4 is ul Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur",
+                                "markups" : []
+                            },
+                            {
+                                "name" : "1aq1",
+                                "type" : 5,
+                                "text" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur",
+                                "markups" : []
+                            },
+                            {
+                                "name" : "1aq1",
+                                "type" : 5,
+                                "text" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur",
+                                "markups" : []
+                            },
+                            {
+                                "name" : "1aq1",
+                                "type" : 5,
+                                "text" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur",
+                                "markups" : []
+                            },
+                            {
+                                "name" : "qasd",
+                                "type" : 1,
+                                "text" : "Loasmab @herman1618",
+                                "markups" : [
+                                    {
+                                        "type" : 4,
+                                        "start" : "12",
+                                        "end" : "14",
+                                        "user" : {
+                                            "userId" : "1nahawoqjqwl",
+                                            "name" : "herman sugiharto",
+                                            "username" : "herman1618",
+                                            "url" : "https://onbox.com/@herman1618",
+                                            "profilImg" : "https://images.onbox.com/jas1jaoqkamsaops.jpg"
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "sections": [
+                            {
+                                "name": "3652",
+                                "startIndex": 0
+                            },
+                        ]
+                    },
+                    "meta" : {
+                        "allowComment" : true,
+                        "wordCount": 2106,
+                        "imageCount": 1,
+                        "stat" : {
+                            "applause" : 900,
+                            "commentCount" : 800,
+                            "box" : 200,
+                            "share" : 200
+                        },
+                    }
+                }
+            ],
+            "type" : "user-defined-post"
+        }
+    }
+}
