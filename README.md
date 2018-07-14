@@ -8,7 +8,8 @@
 3. [Manfaat Dokumen](#manfaat)
 4. [Penjelasan Dokumen](#penjelasan)
   - [Penjelasan Singkat](#overview)
-  - [Berkas](#berkas)
+  - [Struktur Berkas](#berkas)
+  - [Alat](#Alat)
 
 ## 1. Latar Belakang
 
@@ -64,6 +65,18 @@ Dokumentasi ini memiliki struktur berkas seperti berikut:
 
 - `README.md` adalah dokumentasi utama, tujuannya dapat dilihat pada poin ke-2 dokumen ini.
 
+### 4.3 Alat
 
+Dalam pembuatan API, OnBox akan menggunakan :
+
+1. Ruby Programming Language 2.3.1p112 (2016-04-26) [x86_64-linux-gnu]
+2. Ruby On Rails Framework 5.2.0
+3. MySQL Database Ver 14.14 Distrib 5.7.22, for Linux (x86_64)
+4. Atom v 1.7.3
+
+Dalam pengujian API, OnBox akan menggunakan :
+
+1. Postman
+2. Curl Linux Command
 
 ---
